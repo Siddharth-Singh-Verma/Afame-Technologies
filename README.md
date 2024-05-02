@@ -1,1 +1,1 @@
-# Afame-Technologies
+# Spam SMS Detection
